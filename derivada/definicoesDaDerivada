@@ -1,0 +1,3 @@
+f(x) = x -> f'(x) = 0 // a derivada de uma consntante é sempre zero
+
+f(x) = x^2 -> f'(x) = 2x // a derivada de um expoente tem seu expoente levado ate a base, multiplicando por x com o expoente menos 1 (neste exemplo, o quadrado desce e multiplica por 2.x^2-1)
