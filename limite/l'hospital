@@ -1,0 +1,15 @@
+lim x^2 - 4/2x - 4
+x > 2
+
+o caso acima demonstra uma situação onde o limite vai ser 0. nesses casos, se ocorrer das duas funções (acima e abaixo) forem iguais a zero, podemos usar o metodo de l'hospital.
+
+esse metodo se trata de fazer a derivada das duas funções e, com o que restar, efetuar a troxa do valor pelo qual o x tende. 
+
+a derivada de x^2 - 4 é igual a 2x*
+a derivada de 2x - 4 é 2 
+
+assim, o resultado da derivação é 2x/2.
+com isso em mente, substituimos o x, transformando em 2.2/4 -> 4/2 -> 2 - o limite da função acima, com x tendendo a 2, é 2
+
+
+*detalhes de derivação estarão no repositorio de derivadas
