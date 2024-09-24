@@ -1,3 +1,11 @@
-f(x) = x -> f'(x) = 0 // a derivada de uma consntante é sempre zero
+f(x) = x -> f'(x) = 0 // a derivada de uma consntante é sempre zero.
 
-f(x) = x^2 -> f'(x) = 2x // a derivada de um expoente tem seu expoente levado ate a base, multiplicando por x com o expoente menos 1 (neste exemplo, o quadrado desce e multiplica por 2.x^2-1)
+f(x) = x^2 -> f'(x) = 2x // a derivada de um expoente tem seu expoente levado ate a base, multiplicando por x com o expoente menos 1 (neste exemplo, o quadrado desce e multiplica por 2.x^2-1).
+
+f(x) = (x + x^2)^3 -> f'(x) = 3(x + x^2)^2.(1 + 2x) // função aninhada. para resolver, primeiro resolvemos a função de fora, depois multiplicamos ela pela derivada da função interna.
+
+s(t) // função do espaço no tempo.
+
+v(t) = s'(t) // função da velocidade. ela se dá derivando a função do espaço no tempo.
+
+a(t) = v'(t) ou s''(t) // função da aceleração. ela se dá derivando a função de velocidade, ou, derivando a s(t) duas vezes.
