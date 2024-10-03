@@ -1,2 +1,2 @@
 # calculo
-repo for calculus
+Repositorio para calculo e dicas gerais em matematica
